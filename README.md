@@ -4,7 +4,6 @@
 
 <img src="./public/images/screenshot1.JPEG">
 <img src="./public/images/screenshot2.JPEG">
-<img src="./public/images/screenshot3.JPEG">
 <img src="./public/images/screenshot4.JPEG">
 <img src="./public/images/screenshot5.JPEG">
 <img src="./public/images/screenshot6.JPEG">
