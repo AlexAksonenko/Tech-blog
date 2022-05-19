@@ -14,7 +14,7 @@
 https://github.com/AlexAksonenko/Tech-blog.git 
 
 # Live Link
-https://tech-blog-by-oleg.herokuapp.com/
+https://tech-blog-alex.herokuapp.com/
 
 # Project type.
 Model-View-Controller (MVC) Challenge
