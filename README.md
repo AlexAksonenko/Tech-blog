@@ -2,12 +2,12 @@
 # Student Id.
 # Alex Aksonenko
 
-<img src="./public/images/screenshot1.JPG">
-<img src="./public/images/screenshot2.JPG">
-<img src="./public/images/screenshot3.JPG">
-<img src="./public/images/screenshot4.JPG">
-<img src="./public/images/screenshot5.JPG">
-<img src="./public/images/screenshot6.JPG">
+<img src="./public/images/screenshot1.jpg">
+<img src="./public/images/screenshot2.jpg">
+<img src="./public/images/screenshot3.jpg">
+<img src="./public/images/screenshot4.jpg">
+<img src="./public/images/screenshot5.jpg">
+<img src="./public/images/screenshot6.jpg">
 
 # Repository Link
 https://github.com/AlexAksonenko/Tech-blog.git 
